@@ -1,1 +1,14 @@
+The ComputationalSolution.py is a python program that analyzes the clinical trial data based on certain end points to determine if the drugable stent has stastically reached none, one or both of the end points.
 
+End points:
+Endpoint #1 (Primary Endpoint): Achieve primary patency at 9 months
+after treatment (DEF PATENCY: the condition of being open, expanded, or
+unobstructed.) Primary patency is also defined as not needing a lesion
+revascularization, and less than 60% stenosis measured by either duplex
+ultrasonography or angiography.
+
+Endpoint #2: Lowering of dystolic blood pressure by at least 10mmHg.
+The idea here is that if the drugable stent clinical trial results indicate that
+the above two endpoints have been met, then this is one critical step
+toward obtaining FDA approval to commercialize, market, and sell the
+drugable stent to potential patients.
